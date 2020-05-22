@@ -1,3 +1,4 @@
-Josh Platzman
-East Brunswick High School
-About me...
+---
+title: "Josh Platzman"
+date: 2020-05-22
+---
