@@ -1,3 +1,0 @@
-Josh Platzman
-East Brunswick High School
-About me...
